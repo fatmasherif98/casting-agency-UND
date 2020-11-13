@@ -1,0 +1,11 @@
+Collecting python-jose
+  Downloading python_jose-3.2.0-py2.py3-none-any.whl (26 kB)
+Collecting pyasn1
+  Downloading pyasn1-0.4.8-py2.py3-none-any.whl (77 kB)
+Collecting rsa
+  Downloading rsa-4.6-py3-none-any.whl (47 kB)
+Requirement already satisfied: six<2.0 in /home/ubuntu/Documents/FSND/projects/capstone/heroku_sample/starter/env/lib/python3.8/site-packages (from python-jose) (1.15.0)
+Collecting ecdsa<0.15
+  Downloading ecdsa-0.14.1-py2.py3-none-any.whl (79 kB)
+Installing collected packages: pyasn1, rsa, ecdsa, python-jose
+Successfully installed ecdsa-0.14.1 pyasn1-0.4.8 python-jose-3.2.0 rsa-4.6
