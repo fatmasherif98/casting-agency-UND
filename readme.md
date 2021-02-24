@@ -1,6 +1,6 @@
-###Casting Agency Project
+### Casting Agency Project
 This is the capstone project for Full-Stack Udacity Nanodegree.The Casting Agency models a company that is responsible for creating movies and managing and assigning actors to those movies. There are three roles in the Casting Agency and each role has different permissions.
-####Roles:
+#### Roles:
 	Casting Assistant
 		Can view actors and movies
 	Casting Director
@@ -12,7 +12,7 @@ This is the capstone project for Full-Stack Udacity Nanodegree.The Casting Agenc
 		Add or delete a movie from the database
 		
 Heroku link: https://git.heroku.com/casting-agency-undf.git
-####Endpoints
+#### Endpoints
 GET '/movies'
 	returns all the movies in the database, and a success value.
 example:
